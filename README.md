@@ -1,1 +1,1 @@
-Processo Seletivo Getnet - Prova Prática API
+Processo Getnet - Prática API
